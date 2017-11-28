@@ -17,7 +17,7 @@ A implementação do projeto foi feita em três etapas:
 Foram gravadas 16 rádios brasileiras através de seus serviços de streaming com o programa FFmpeg, totalizando 11,8 horas de áudio, sendo 59,5% de música e 40,5% de fala. Então, a ferramenta YAAFE (Yet Another Audio Feature Extractor) foi utilizada para extrair características do áudio, transformando as informações acústicas em informações numéricas. A figura abaixo mostra a distribuição das classes música e fala para um dos atributos do áudio mais úteis na classificação.
 
 <p align="center">
-  <img src="low_energy_proportion_hist.jpeg" alt="Hist" width="40%" height="40%"/>
+  <img src="low_energy_proportion_hist.jpeg" alt="Hist" width="50%" height="50%"/>
 </p>
 
 
@@ -35,11 +35,9 @@ Por fim, uma API foi desenvolvida para permitir o acesso externo ao sistema. Um 
 Mais próximo da data da feira de apresentação do TCC (19/12), o link do site de demonstração do projeto será disponibilizado aqui!
 
 ## GRUPO
-Felipe Malbergier
-
-Nazli Setton
-
-Rodrigo Sabino
+* Felipe Malbergier
+* Nazli Setton
+* Rodrigo Sabino
 
 ##### Orientador: Prof. Jorge Risco
 
