@@ -39,5 +39,5 @@ Mais próximo da data da feira de apresentação do TCC (19/12), o link do site 
 * Nazli Setton
 * Rodrigo Sabino
 
-##### Orientador: Prof. Jorge Risco
-
+#### Orientador: Prof. Jorge Risco
+<
